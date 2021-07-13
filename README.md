@@ -1,4 +1,4 @@
-##**Python sudoku solver**
+##Python sudoku solver
 
 TO DO:
 
